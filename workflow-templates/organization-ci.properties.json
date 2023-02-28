@@ -1,7 +1,7 @@
 {
     "name": "InfoMagnus Organization Workflow",
     "description": "InfoMagnus Organization CI starter workflow.",
-    "iconName": "example-icon",
+    "iconName": "oticon bell-16",
     "categories": [
         "Go"
     ],
