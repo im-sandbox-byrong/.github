@@ -1,0 +1,13 @@
+{
+    "name": "InfoMagnus Organization Workflow",
+    "description": "InfoMagnus Organization CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
